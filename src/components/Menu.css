@@ -1,0 +1,20 @@
+.Menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .menu-links {
+    display: flex;
+  }
+  
+  .login-form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .login-form input,
+  .login-form button {
+    margin-left: 10px;
+  }
+  
